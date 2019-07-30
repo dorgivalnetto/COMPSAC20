@@ -25,9 +25,9 @@
   <p align="justify"> Considered labeled portions of text using codes (we started with open coding, then we did axial coding, and finally, weused selective coding). </p>
 
 <a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/open%20coding.xls"> Open Coding </a>
-<br/>
+<br>
 <a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/axial%20coding.xls"> Axial Coding </a>
-<br/>
+<br>
 
 <p align="justify"> Subsequently, the relationships between categories were mapped to identify their influences about the requirements specification process with reduced ambiguity and legal compliance. Figure 1 illustrates the category creation process.</p>
 
