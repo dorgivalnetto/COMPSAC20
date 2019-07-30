@@ -14,7 +14,7 @@ Authors: Dorgival Netto, Carla Silva, João Araújo
 
 <a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/open%20coding.xls"> Open Coding </a>
 
-<a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/open%20coding.xls"> Axial Coding </a>
+<a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/axial%20coding.xls"> Axial Coding </a>
 </div>
 
 </html>
