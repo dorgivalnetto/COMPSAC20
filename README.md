@@ -1,10 +1,10 @@
 <html>
   
-  <h3> Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study</h3>
+  <h2> Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study</h3>
 
 This web page presents the supplementary material of the paper: Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study
 
-<h4>Authors: Dorgival Netto, Carla Silva, João Araújo</h4>
+<h3>Authors: Dorgival Netto, Carla Silva, João Araújo</h4>
 
 <h3><b>Abstract</b></h3>
 <p align="justify">
@@ -30,7 +30,7 @@ This web page presents the supplementary material of the paper: Identifying How 
 
 <p align="justify"> Subsequently, the relationships between categories were mapped to identify their influences about the requirements specification process with reduced ambiguity and legal compliance. Figure 1 illustrates the category creation process.</p>
 
-<img src="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/categorias.jpg" height="200px" width="200px" alt="Category creation process"/>
+<img src="https://github.com/dorgivalnetto/SBES2019/blob/gh-pages/categorias.jpg?raw=true" height="200px" width="200px" alt="Category creation process"/>
 
 <p align="justify"> Four basic categories (<i>Requirements Elicitation</i>, <i>Requirements Specification</i>, <i>Working with Law</i>, <i>Sensitive Personal Data</i>) and three core categories (<i>Communication between the Team and the Customer</i>, <i>Legal Requirements</i> and, <i>Ambiguity</i>) were found. The core categories are highlighted by the rectangle with the dashed border in red. The arrows that relate a factor to a category have a signal plus or minus representing, respectively, positive or negative influences from the factors to these categories. For example, <i>Change in the Law</i> is a negative factor for those <i>Working with Law</i> because this change has an impact on the processes. The contribution (positive or negative) of each category over the main categories were derived from the interpretation of the interviews and authors’ analysis data. The smaller bidirectional arrows between the categories represent that they were associated with the interviews. The larger bidi-rectional arrows connecting only core categories, represent the relationships with higher importance, i.e., to address ambiguity in legal requirements, the <i>Communication between the Team and the Customer</i> is critical. To ensure a successful <i>Requirements Elicitation</i> and <i>Requirements Specification</i>, <i>Communication between the Team and the Customer</i> is critical. Figure 2 presents the categories and their related factors. </p>
 
