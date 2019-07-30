@@ -12,6 +12,9 @@ Authors: Dorgival Netto, Carla Silva, João Araújo
 
 <a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/SupplementaryMaterial-SBES_2019.pdf">Interview Script </a>
 
+<a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/open%20coding.xls"> Open Coding </a>
+
+<a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/open%20coding.xls"> Axial Coding </a>
 </div>
 
 </html>
