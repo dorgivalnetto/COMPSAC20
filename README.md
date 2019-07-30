@@ -1,8 +1,8 @@
 <html>
   
-  <h2> Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study</h2>
+  <h2> Identifying How the Brazilian Software Industry Specifies Legal Requirements</h2>
 
-<p align="justify"> This web page presents the supplementary material of the paper: Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study </p>
+<p align="justify"> This web page presents the supplementary material of the paper: Identifying How the Brazilian Software Industry Specifies Legal Requirements</p>
 
 <h3>Authors: Dorgival Netto, Carla Silva, João Araújo</h3>
 
