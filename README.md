@@ -1,4 +1,4 @@
-# Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study
+<font size="3">Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study</font>
 
 This web page presents the supplementary material of the paper: Identifying How to the Brazilian Software Industry Specifies Legal Requirements - a Qualitative Study
 
