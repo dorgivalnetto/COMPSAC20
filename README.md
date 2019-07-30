@@ -24,7 +24,7 @@
   
   <p align="justify"> Considered labeled portions of text using codes (we started with open coding, then we did axial coding, and finally, weused selective coding). </p>
 
-<a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/open%20coding.xls"> Open Coding </a>
+<a href="https://github.com/dorgivalnetto/SBES2019/blob/gh-pages/open%20coding.xls"> Open Coding </a>
 <br>
 <a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/axial%20coding.xls"> Axial Coding </a>
 <br>
