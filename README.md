@@ -28,6 +28,10 @@ Authors: Dorgival Netto, Carla Silva, João Araújo
 
 <p align="justify"> Subsequently, the relationships between categories were mapped to identify their influences about the requirements specification process with reduced ambiguity and legal compliance. Figure 1 illustrates the category creation process.</p>
 
+<img src="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/categorias.jpg" alt="Category creation process">
+
 <p align="justify"> Four basic categories (Requirements Elicitation, Require-ments Specification, Working with Law, Sensitive PersonalData) and three core categories (Communication betweenthe Team and the Customer, Legal Requirements and, Am-biguity) were found. The core categories are highlighted bythe rectangle with the dashed border in red. The arrows that relate a factor to a category have a signal plus or minus representing, respectively, positive or negative influences from the factors to these categories. For example, <i>Change in the Law</i> is a negative factor for those <i>Working with Law</i> because this change has an impact on the processes. The contribution (positive or negative) of each category over the main categories were derived from the interpretation of the interviews and authors’ analysis data. The smaller bidirectional arrows between the categories represent that they were associated with the interviews. The larger bidi-rectional arrows connecting only core categories, represent the relationships with higher importance, i.e., to address ambiguity in legal requirements, the <i>Communication between the Team and the Customer</i> is critical. To ensure a successful <i>Requirements Elicitation</i> and <i>Requirements Specification</i>, <i>Communication between the Team and the Customer</i> is critical. Figure 2 presents the categories and their related factors. </p>
+
+<img src="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/artigo_SBES.png" alt="Categories and their related factors">
 
 </html>
