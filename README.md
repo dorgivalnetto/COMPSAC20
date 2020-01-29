@@ -16,7 +16,7 @@ Natural language is largely used to specify software requirements, but it brings
   
   <p align="justify"> A semi-structured interview was performed using an interview script specifically designed and composed of open-ended questions</p>
 
-<a href="https://github.com/dorgivalnetto/sbes19/blob/gh-pages/SupplementaryMaterial-SBES_2019.pdf">Interview Script </a>
+<a href="https://github.com/dorgivalnetto/COMPSAC20/blob/gh-pages/SupplementaryMaterial-SBES_2019.pdf">Interview Script </a>
 
 <hr size="7">
   
