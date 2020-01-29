@@ -1,14 +1,14 @@
 <html>
   
-  <h2> Identifying How the Brazilian Software Industry Specifies Legal Requirements</h2>
+  <h2> How public and private companies address ambiguity and compliance in legal requirements specification?</h2>
 
-<p align="justify"> This web page presents the supplementary material of the paper: Identifying How the Brazilian Software Industry Specifies Legal Requirements</p>
+<p align="justify"> This web page presents the supplementary material of the paper: How public and private companies address ambiguity and compliance in legal requirements specification?</p>
 
-<h3>Authors: Dorgival Netto, Carla Silva, João Araújo</h3>
+<h3>Authors: Ommited</h3>
 
 <h3><b>Abstract</b></h3>
 <p align="justify">
-<b>[Background]</b> Software requirements are usually specifiedin Natural Language, bringing challenges for Requirements Engineering (RE) as these specifications are inherently ambiguous. These challenges become bigger when dealing with software requirements that must comply with regulations,the so-called legal requirements. The state of practice totackle ambiguity of legal requirements and their compliance with regulations is missing.<b>[Goal]</b> This work investigates how ambiguity in legal requirements specification is addressed and how the software development industry performs legal compliance. <b>[Method]</b> We followed a qualitativeapproach based on semi-structured interviews involving nine professionals from different companies who presented their views on the RE process, including legal compliance and ambiguity resolution of legal requirements. Data was collected using audio-recorded and analyzed using Grounded Theory.<b>[Results]</b> Findings revealed that customer and legal expert support during the project could reduce the risk of misinterpreting the legislation. Verification and Validation of Legal Compliance are customer assignments.<b>[Conclusions]</b> Ambiguity resolution and legal compliance of requirements are based on the tacit knowledge of experienced team members or discussions between the team and the customer.</p>
+Natural language is largely used to specify software requirements, but it brings challenges as it is prone to produce ambiguous specifications. These challenges become bigger when dealing with software requirements that must comply with regulations, the so-called legal requirements. In previous work, we investigated in nine employees of eight public and private companies the state of practice to tackle ambiguity of legal requirements and their compliance with regulations. This work extends the previous study by including other ten employees of seven companies in the investigation of how the software development industry addresses ambiguity in legal requirements specification and how it achieves legal compliance. A qualitative study, based on semi-structured interviews, was performed with nineteen professionals from different companies who presented their views on the RE process, including legal compliance and ambiguity resolution of legal requirements. Data was collected using audio-recorded and analyzed using coding techniques. Findings revealed that a culture of privacy compliance regarding protection of personal data must be created because the company as a whole must comply with the law. Ambiguity resolution and legal compliance in software requirements are based on discussions between the team, the customer and the specialized support area (compliance, legal, ambiguity identification). Also, the participation of experienced team members and domain knowledge help to identify if a given data is sensitive and if it is essential for the system. These strategies reduce rework and the risk of non-compliance.</p>
   
 <hr size="7">
   
